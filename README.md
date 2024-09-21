@@ -172,24 +172,9 @@ Após avaliar as ferramentas GitLab, GitHub, Jenkins e CircleCI com base nos cri
 ## 4. Desenvolvimento de um Pipeline de CI/CD (17/09 a 23/09)
 
 ### Diagrama do Pipeline de CI/CD:
-- **Ferramentas**: GitLab/GitHub, Jenkins/CircleCI, SonarCloud/SonarQube, Ferramentas de Teste
-- **Diagrama**: [Inserir ou anexar o diagrama de fluxo]
-  
-### Descrição do Pipeline:
-1. **Controle de Versão**:
-   - Utilizando [GitLab/GitHub] para versionamento e gerenciamento de código.
 
-2. **Ambiente de CI/CD**:
-   - Integração de [Jenkins/CircleCI] com o repositório Git para executar os pipelines.
+- Link para o diagrama: https://miro.com/app/board/uXjVLcSDyos=/?share_link_id=101619001006
 
-3. **Ferramentas de Teste**:
-   - [Detalhar onde as ferramentas de teste serão aplicadas no pipeline].
-
-4. **Ferramentas de Segurança (SAST)**:
-   - Integração do SonarCloud/SonarQube para análise de segurança automatizada.
-
-### Preparação para Apresentação:
-- **Principais Pontos**: Destacar a escolha das ferramentas, a integração no pipeline e os benefícios para o projeto de software de engenharia.
-- **Duração da Apresentação**: Aproximadamente 10 minutos.
+![alt text](<CI_CD Diagram - Frame 1.jpg>)
 
 ---
